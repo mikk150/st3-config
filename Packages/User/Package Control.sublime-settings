@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_prereleases":
+	[
+		"SublimeCodeIntel"
+	],
+	"installed_packages":
+	[
+		"DocBlockr_with_update_capability",
+		"GitGutter-Edge",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"SCSS",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd",
+		"Sublimerge 3"
+	]
+}
