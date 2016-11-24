@@ -1,7 +1,6 @@
 #!/bin/sh
 
-wget https://bootstrap.pypa.io/get-pip.py
-sudo python get-pip.py
+sudo apt-get install -y python-pip
 pip download CodeIntel --no-deps
 mkdir CodeIntel
 tar xf CodeIntel*.tar.gz -C CodeIntel --strip-components=1
